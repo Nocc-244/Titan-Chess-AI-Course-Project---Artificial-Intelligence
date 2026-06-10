@@ -110,10 +110,10 @@ Titan Chess AI
 
 | Thành viên      | Phân công                                                                      |
 | --------------- | ------------------------------------------------------------------------------ |
-| Nguyễn Thị Hà   | Thiết kế và phát triển chương trình, xây dựng thuật toán AI, kiểm thử hệ thống |
+| Nguyễn Thị Hà   | Thiết kế và phát triển chương trình, xây dựng thuật toán AI |
 | Trần Danh Đoàn  | Viết báo cáo, thiết kế slide thuyết trình                                      |
 | Nguyễn Tuấn Đạt | Viết báo cáo, thiết kế slide thuyết trình                                      |
-| Phạm Minh Trí   | Viết báo cáo, thiết kế slide thuyết trình                                      |
+| Phạm Minh Trí   | Hỗ trợ code, Kiểm thử                                    |
 
 ---
 
