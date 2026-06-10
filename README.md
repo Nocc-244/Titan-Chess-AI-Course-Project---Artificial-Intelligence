@@ -177,13 +177,41 @@ Kết quả cho thấy AI có khả năng:
 
 ## Tài liệu tham khảo
 
-1. Chess.com Analysis Board.
-2. Chess Programming Wiki.
-3. python-chess Documentation.
-4. Minimax Algorithm – GeeksforGeeks.
-5. Alpha-Beta Pruning – GeeksforGeeks.
-6. Russell, S., Norvig, P. Artificial Intelligence: A Modern Approach.
-7. Knuth, D. E., Moore, R. W. An Analysis of Alpha-Beta Pruning.
-8. Shannon, C. E. Programming a Computer for Playing Chess.
-9. Maharaj, S., Polson, N., Turk, A. Chess AI: Competing Paradigms for Machine Intelligence.
-10. Monroe, D., Eilender, G., Chalmers, P., Tang, Z., Anderson, A. Chessformer: A Unified Architecture for Chess Modeling.
+[1] Chess.com Analysis Board.
+Công cụ phân tích ván cờ và đánh giá chất lượng nước đi.
+https://www.chess.com/analysis
+
+[2] Chess Programming Wiki – Simplified Evaluation Function.
+Tomasz Michniewski.
+Tài liệu về giá trị quân cờ (Piece Values), bảng điểm vị trí (Piece-Square Tables) và hàm đánh giá trong Chess Engine.
+https://www.chessprogramming.org/Simplified_Evaluation_Function
+
+[3] python-chess Documentation.
+Tài liệu chính thức của thư viện python-chess.
+https://python-chess.readthedocs.io
+
+[4] GeeksforGeeks.
+Minimax Algorithm in Game Theory.
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
+
+[5] GeeksforGeeks.
+Alpha-Beta Pruning for Minimax Algorithm.
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/
+
+[6] Russell, S., & Norvig, P.
+Artificial Intelligence: A Modern Approach.
+Pearson Education.
+
+[7] Shannon, C. E. (1950).
+Programming a Computer for Playing Chess.
+Philosophical Magazine.
+
+[8] Knuth, D. E., & Moore, R. W. (1975).
+An Analysis of Alpha-Beta Pruning.
+Artificial Intelligence Journal.
+
+[9] Maharaj, S., Polson, N., & Turk, A. (2021).
+Chess AI: Competing Paradigms for Machine Intelligence.
+
+[10] Monroe, D., Eilender, G., Chalmers, P., Tang, Z., & Anderson, A. (2026).
+Chessformer: A Unified Architecture for Chess Modeling.
